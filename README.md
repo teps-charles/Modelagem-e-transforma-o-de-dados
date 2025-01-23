@@ -1,1 +1,2 @@
-# Modelagem-e-transforma-o-de-dados
+# Modelagem-e-transformação-de-dados
+Usando power BI para realizar a modelagem de dados: criar nova tabela e colunas
